@@ -56,3 +56,7 @@ dkms.conf
 *.ppm
 *.mp4
 out/
+
+#IDE folder
+.metals/
+.vscode/
